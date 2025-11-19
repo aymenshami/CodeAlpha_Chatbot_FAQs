@@ -1,0 +1,41 @@
+Question,Answer
+What is Artificial Intelligence?,Artificial Intelligence is the simulation of human intelligence by machines.
+What is Machine Learning?,Machine Learning is a subset of AI that enables systems to learn from data.
+What is Python?,Python is a popular programming language known for its simplicity and versatility.
+How does the FAQ chatbot work?,The FAQ chatbot matches your question to the closest FAQ using TF-IDF and cosine similarity.
+What is Deep Learning?,Deep Learning is a subset of ML that uses neural networks with multiple layers.
+What is a Neural Network?,A Neural Network is a model inspired by the human brain used for pattern recognition.
+What is Natural Language Processing?,Natural Language Processing is the ability of machines to understand human language.
+What is Computer Vision?,Computer Vision enables machines to interpret and understand visual information.
+What is a Database?,A Database is a structured collection of data stored electronically.
+What is SQL?,SQL is a language used to manage and retrieve data in relational databases.
+What is Cybersecurity?,Cybersecurity is the protection of systems and data from digital attacks.
+What is a Programming Language?,A Programming Language is used to write code that a computer can execute.
+What is an API?,An API is a software interface that allows applications to communicate with each other.
+What is Cloud Computing?,Cloud Computing is the delivery of computing services over the internet.
+What is Big Data?,Big Data refers to extremely large datasets that require advanced tools to process.
+What is Data Science?,"Data Science is the field that uses data analysis, statistics, and ML to extract insights."
+What is Overfitting in ML?,Overfitting occurs when a model learns noise instead of the underlying pattern.
+What is Underfitting?,Underfitting happens when a model is too simple to learn the data structure.
+What is a Dataset?,A Dataset is a collection of data used for training or testing ML models.
+What is a Feature in ML?,A Feature is an input variable used for training ML models.
+What is a Label in ML?,A Label is the output variable the ML model tries to predict.
+What is Supervised Learning?,Supervised Learning uses labeled data to train models.
+What is Unsupervised Learning?,Unsupervised Learning finds patterns in unlabeled data.
+What is Reinforcement Learning?,Reinforcement Learning trains an agent through reward-based learning.
+What is HTML?,HTML is the standard language for creating web pages.
+What is CSS?,CSS is used to style and format the layout of web pages.
+What is JavaScript?,JavaScript is a programming language used to add interactivity to websites.
+What is a Front-End Developer?,A Front-End Developer creates the user interface and user experience of websites.
+What is a Back-End Developer?,A Back-End Developer manages server-side logic and databases.
+What is Full-Stack Development?,Full-Stack Development combines both front-end and back-end skills.
+What is an Operating System?,An Operating System manages computer hardware and software resources.
+What is Virtualization?,Virtualization allows multiple operating systems to run on one physical machine.
+What is a Firewall?,A Firewall protects networks by controlling incoming and outgoing traffic.
+What is Encryption?,Encryption is the process of converting data into a secure format.
+What is a Computer Network?,A Computer Network is a group of devices connected to share resources.
+What is IPv4?,IPv4 is the fourth version of the Internet Protocol using 32-bit addresses.
+What is IPv6?,IPv6 is the newer version using 128-bit addresses for more IP space.
+What is a Router?,A Router directs network traffic between devices.
+What is a Switch?,A Switch connects devices within a local network.
+What is Cloud Storage?,Cloud Storage allows users to save data on remote servers via the internet.
